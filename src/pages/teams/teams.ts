@@ -4,6 +4,7 @@ import { HomePage } from '../home/home';
 import { AdminHomePage } from '../admin-home/admin-home';
 import { UsersPage } from '../users/users';
 import { ProjectsPage } from '../projects/projects';
+import { AngularFire Database} from :@ionic-angular;
 /**
  * Generated class for the TeamsPage page.
  *
